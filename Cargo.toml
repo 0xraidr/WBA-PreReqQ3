@@ -1,0 +1,10 @@
+[package]
+# name = "WBA-PreReqQ3"
+name = "wba_pre_req_q3"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+solana-sdk = "1.15.2"
